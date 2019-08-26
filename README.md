@@ -1,2 +1,4 @@
 # Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+
+### Diogos implementation?!
+Forked from Stephen Grider's GraphQL course on Udemy.
